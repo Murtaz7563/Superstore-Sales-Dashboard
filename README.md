@@ -1,3 +1,13 @@
+![Uploading image.png…]()
+
+
+
+
+
+
+
+
+
 # Project Objective
 To analyze 51,000+ global retail transactions across countries, regions, customer segments, and product categories — 
 identifying sales trends, profitability patterns, and the impact of discounting on business performance through an interactive 
